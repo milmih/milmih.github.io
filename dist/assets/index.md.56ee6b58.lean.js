@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as n}from"./chunks/framework.05c0bef4.js";const f=JSON.parse('{"title":"The M Point","description":"","frontmatter":{"title":"The M Point","subtext":"Building software","index":true},"headers":[],"relativePath":"index.md"}'),a={name:"index.md"};function o(r,i,s,c,d,p){return n(),t("div")}const l=e(a,[["render",o]]);export{f as __pageData,l as default};
