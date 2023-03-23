@@ -1,5 +1,5 @@
 ---
-title: My first blog post
+title: Hey Ya! 👋
 date: 2023-03-20
 author: Miloš Mihajlović
 gravatar: 6dce2dacb8a7c82b5a8654f3b0cbc6d8

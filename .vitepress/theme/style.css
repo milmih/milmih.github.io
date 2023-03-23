@@ -2,9 +2,17 @@
 @tailwind components;
 @tailwind utilities;
 
+/* https://vitepress.dev/guide/extending-default-theme */
+
 :root {
-  --c-brand: #3eaf7c;
-  --c-brand-light: #4abf8a;
+  --c-brand: #e3b302;
+  --c-brand-light: #ffd438;
+  --text: #cbcbcb;
+  --background: #7d4c3f;
+}
+
+body {
+  background-color: var(--background) !important;
 }
 
 nav img {

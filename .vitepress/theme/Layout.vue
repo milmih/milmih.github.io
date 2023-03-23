@@ -8,20 +8,20 @@ const { page, frontmatter } = useData()
 </script>
 
 <template>
-  <div class="antialiased dark:bg-slate-900">
+  <div class="antialiased">
     <div class="max-w-3xl mx-auto px-4 sm:px-6 xl:max-w-5xl xl:px-0">
       <nav class="flex justify-between items-center py-10 font-bold">
-        <a class="text-xl" href="/" aria-label="The M Point">
+        <a class="text-xl" href="/" aria-label="Red Fox ">
           <img
             class="inline-block mr-2"
-            style="width: 36px; height: 31px"
+            style="width: 36px; height: 31px; border-radius: 50%"
             alt="logo"
-            src="/logo.svg"
+            src="/logo.png"
           />
           <span
             v-if="!frontmatter.index"
             class="hidden md:inline dark:text-white"
-            >The M Point</span
+            >Red Fox Blog</span
           >
         </a>
         <div class="text-sm text-gray-500 dark:text-white leading-5">

@@ -1,5 +1,5 @@
 ---
-title: The M Point
-subtext: Building software
+title: Red Fox
+subtext: Shaping software & teams
 index: true
 ---
