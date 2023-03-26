@@ -30,14 +30,14 @@ const { page, frontmatter } = useData()
             href="/">
             Home
           </a>
-          <span class="mr-2 ml-2">·</span>
+          <!-- <span class="mr-2 ml-2">·</span>
           <a
             class="hover:text-gray-700 dark:hover:text-gray-200"
             href="https://github.com/milmih"
             target="_blank"
             rel="noopener">
             <span class="hidden sm:inline">GitHub</span> Profile
-          </a>
+          </a> -->
           <span class="mr-2 ml-2">·</span>
           <a
             class="hover:text-gray-700 dark:hover:text-gray-200"

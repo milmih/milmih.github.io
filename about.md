@@ -3,4 +3,5 @@ title: About
 page: true
 ---
 
-### Text
+[LinkedIn](https://www.linkedin.com/in/milosmih/) · [GitHub](https://github.com/milmih) · [Twitter](https://twitter.com/milosmih)
+
