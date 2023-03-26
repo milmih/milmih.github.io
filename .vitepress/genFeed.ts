@@ -8,7 +8,7 @@ const baseUrl = `https://rfs.rs`
 export async function genFeed(config: SiteConfig) {
   const feed = new Feed({
     title: 'Red Fox',
-    description: 'Shaping software & teams',
+    description: 'Shaping & growing, software & teams',
     id: baseUrl,
     link: baseUrl,
     language: 'en',

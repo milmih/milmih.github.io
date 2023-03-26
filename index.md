@@ -1,5 +1,5 @@
 ---
 title: Red Fox Blog
-subtext: Shaping software & teams
+subtext: Shaping & growing, software & teams
 index: true
 ---

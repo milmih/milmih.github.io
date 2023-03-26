@@ -3,7 +3,7 @@ import { genFeed } from './genFeed.js'
 
 export default defineConfig({
   title: 'Red Fox',
-  description: 'Shaping software & teams',
+  description: 'Shaping & growing, software & teams',
   cleanUrls: true,
   head: [
     ['meta', { name: 'twitter:site', content: '@milosmih' }],
